@@ -22,4 +22,5 @@ end
 def now_serving(deli)
   if deli.empty?
     puts "The line is empty."
+  end 
 end
