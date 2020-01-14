@@ -25,6 +25,5 @@ def now_serving(deli)
   else
     currently_serving = deli.shift()
     puts "Currently serving: #{currently_serving}."
-
   end
 end
